@@ -213,14 +213,12 @@ classDiagram
 
 ---
 
-### Berkas Laporan yang Telah Dihasilkan
+TIP
 
-Dua format berkas telah dibuat dan siap digunakan:
+Aturan Git:
 
-1. **Format Microsoft Word (.docx)**:
-   - [Laporan_Progress_Tubes_PBO_MotoCare.docx](file:///C:/Users/Lenovo/.gemini/antigravity/worktrees/-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare/motocare_oop_documentation/Laporan_Progress_Tubes_PBO_MotoCare.docx) (49.6 KB)
-   - Digunakan jika ingin mengedit nama, mengisi nomor induk mahasiswa (NIM), atau menambahkan logo kampus.
+Izat membuat branch git checkout -b feature/masterdata-izat
+Putrana membuat branch git checkout -b feature/servis-putrana
+Rafli membuat branch git checkout -b feature/transaksi-rafli
 
-2. **Format PDF (.pdf) – Siap Upload ke Edlink**:
-   - [Laporan_Progress_Tubes_PBO_MotoCare.pdf](file:///C:/Users/Lenovo/.gemini/antigravity/worktrees/-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare/motocare_oop_documentation/Laporan_Progress_Tubes_PBO_MotoCare.pdf) (24.6 KB)
-   - Memenuhi syarat Edlink: **1 file PDF, ukuran hanya ~25 KB (jauh di bawah batas 10 MB)**, dilengkapi nomor halaman dinamis, header/footer resmi, tabel terstruktur, dan blok kode rapi.
+Karena setiap anggota hanya menyentuh folder modulnya masing-masing, ketika di-merge ke branch main, Git akan menggabungkannya secara otomatis tanpa konflik sama sekali!
