@@ -218,7 +218,9 @@ TIP
 Aturan Git:
 
 Izat membuat branch git checkout -b feature/masterdata-izat
+
 Putrana membuat branch git checkout -b feature/servis-putrana
+
 Rafli membuat branch git checkout -b feature/transaksi-rafli
 
 Karena setiap anggota hanya menyentuh folder modulnya masing-masing, ketika di-merge ke branch main, Git akan menggabungkannya secara otomatis tanpa konflik sama sekali!
