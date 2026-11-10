@@ -3,20 +3,8 @@ using System.Collections.Generic;
 
 namespace MotoCare.Models.Modul1_MasterData
 {
-    /// <summary>
-    /// Modul 1: Master Data
-    /// Penanggung Jawab: Izat Ibrahimovic
-    /// 
-    /// Kelas Customer mewarisi (Inheritance) dari kelas Person.
-    /// Mengimplementasikan:
-    /// 1. Inheritance (Person -> Customer)
-    /// 2. Variable, Get-Set properties
-    /// 3. Collection (List<Vehicle>)
-    /// 4. Method (AddVehicle, AddLoyaltyPoints, RedeemPoints, Override Virtual Method)
-    /// </summary>
     public class Customer : Person
     {
-        // Field private
         private int _loyaltyPoints;
 
         // Auto-implemented Properties
