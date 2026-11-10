@@ -1,0 +1,15 @@
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\bin\Debug\net10.0\MotoCare.exe
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\bin\Debug\net10.0\MotoCare.deps.json
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\bin\Debug\net10.0\MotoCare.runtimeconfig.json
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\bin\Debug\net10.0\MotoCare.dll
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\bin\Debug\net10.0\MotoCare.pdb
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.AssemblyInfoInputs.cache
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.AssemblyInfo.cs
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.sourcelink.json
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.dll
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\refint\MotoCare.dll
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.pdb
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.genruntimeconfig.cache
+C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\ref\MotoCare.dll
