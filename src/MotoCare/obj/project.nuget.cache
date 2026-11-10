@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xgngAO6/ink=",
+  "dgSpecHash": "plo+uZzxYHM=",
   "success": true,
-  "projectFilePath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
+  "projectFilePath": "c:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj": {}
+    "c:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj": {}
   },
   "projects": {
-    "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj": {
+    "c:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
+        "projectUniqueName": "c:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
         "projectName": "MotoCare",
-        "projectPath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
+        "projectPath": "c:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\obj\\",
+        "outputPath": "c:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
