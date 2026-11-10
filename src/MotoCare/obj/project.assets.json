@@ -14,19 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
       "projectName": "MotoCare",
       "projectPath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Lenovo\\.gemini\\antigravity\\worktrees\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\motocare_oop_documentation\\src\\MotoCare\\MotoCare.csproj",
-      "projectName": "MotoCare",
-      "projectPath": "C:\\Users\\Lenovo\\.gemini\\antigravity\\worktrees\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\motocare_oop_documentation\\src\\MotoCare\\MotoCare.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\.gemini\\antigravity\\worktrees\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\motocare_oop_documentation\\src\\MotoCare\\obj\\",
->>>>>>> db8ff38f71d7d2e3d88195e12aef684defc865d0
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -359,5 +351,13 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }

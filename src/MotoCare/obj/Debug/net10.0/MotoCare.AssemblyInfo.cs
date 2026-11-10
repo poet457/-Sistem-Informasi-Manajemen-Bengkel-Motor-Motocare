@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotoCare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+758aa638e76a73874649168788586d0f84520923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d610820fc56b8af0b9d51fccda938fed19f3a5c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotoCare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotoCare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "xgngAO6/ink=",
   "success": true,
   "projectFilePath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
-=======
-  "dgSpecHash": "Aoj3qI14pO8=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\.gemini\\antigravity\\worktrees\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\motocare_oop_documentation\\src\\MotoCare\\MotoCare.csproj",
->>>>>>> db8ff38f71d7d2e3d88195e12aef684defc865d0
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
