@@ -13,6 +13,7 @@ C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengke
 C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.pdb
 C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\MotoCare.genruntimeconfig.cache
 C:\Users\Lenovo\.gemini\antigravity\worktrees\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\motocare_oop_documentation\src\MotoCare\obj\Debug\net10.0\ref\MotoCare.dll
+<<<<<<< HEAD
 C:\Project PBO\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\src\MotoCare\bin\Debug\net10.0\MotoCare.exe
 C:\Project PBO\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\src\MotoCare\bin\Debug\net10.0\MotoCare.deps.json
 C:\Project PBO\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\src\MotoCare\bin\Debug\net10.0\MotoCare.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\Project PBO\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\src\MotoCare\o
 C:\Project PBO\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\src\MotoCare\obj\Debug\net10.0\MotoCare.pdb
 C:\Project PBO\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\src\MotoCare\obj\Debug\net10.0\MotoCare.genruntimeconfig.cache
 C:\Project PBO\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\src\MotoCare\obj\Debug\net10.0\ref\MotoCare.dll
+=======
+>>>>>>> db8ff38f71d7d2e3d88195e12aef684defc865d0

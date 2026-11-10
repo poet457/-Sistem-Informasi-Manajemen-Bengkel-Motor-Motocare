@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xgngAO6/ink=",
   "success": true,
   "projectFilePath": "C:\\Project PBO\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\src\\MotoCare\\MotoCare.csproj",
+=======
+  "dgSpecHash": "Aoj3qI14pO8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\.gemini\\antigravity\\worktrees\\-Sistem-Informasi-Manajemen-Bengkel-Motor-Motocare\\motocare_oop_documentation\\src\\MotoCare\\MotoCare.csproj",
+>>>>>>> db8ff38f71d7d2e3d88195e12aef684defc865d0
   "expectedPackageFiles": [],
   "logs": []
 }
